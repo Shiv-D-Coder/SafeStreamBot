@@ -1,12 +1,7 @@
 [
     {
-        "question": "hi man head hurts",
+        "question": "hi man",
         "model": "llama-3.3-70b-versatile",
-        "response": "Sorry to hear that your head hurts. There could be many reasons for a headache. Can you tell me more about it? \n\n* How long have you been experiencing the headache?\n* Is it a sharp, dull, or throbbing pain?\n* Is the pain located on one side of your head or all over?\n* Have you recently been stressed, slept poorly, or eaten something unusual?\n* Have you taken any medications or tried any remedies to relieve the pain?\n\nThis will help me narrow down some possible causes and offer suggestions to help you feel better."
-    },
-    {
-        "question": "still hurts",
-        "model": "llama-3.3-70b-versatile",
-        "response": "I'm here to help you try to figure out what might be going on. Since you're still experiencing the headache, let's try to gather a bit more information.\n\nCan you rate the severity of your headache on a scale of 1-10, with 1 being mild and 10 being severe?\n\nAlso, have you noticed any other symptoms alongside the headache, such as:\n\n* Sensitivity to light or sound\n* Nausea or vomiting\n* Dizziness or lightheadedness\n* Fever or chills\n* Neck or shoulder pain\n\nAdditionally, have you:\n\n* Recently traveled or been in a new environment\n* Changed your diet or taken any new supplements\n* Experienced any recent trauma or injury to the head or neck\n* Been under a lot of stress or pressure lately\n\nAny details you can provide will help me try to help you identify possible causes and suggest some potential next steps to relieve your headache."
+        "response": "Hello. Is there something I can help you with or would you like to talk about a specific health topic? I'm here to listen and provide information."
     }
 ]
