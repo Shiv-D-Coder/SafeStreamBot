@@ -1,4 +1,4 @@
-### Streamlit Chatbot with Security Awareness
+# Streamlit Chatbot with Security Awareness
 
 ## 🚀 Project Overview
 **SafeStreamBot** is a Streamlit-based chatbot application that showcases the capabilities of advanced AI models like **DeepSeek** and **Llama**. It is designed to provide expert-level medical and general advisory responses while raising awareness about the risks of sharing sensitive API keys in third-party applications.
